@@ -11,3 +11,7 @@
 ## react-ssr
 ## 学习笔记
 > https://www.yuque.com/docs/share/5af4aa17-0c41-4702-8bad-e89f99c3f501?#密码：zbbp
+
+## next-guide
+## 学习笔记
+> https://www.yuque.com/docs/share/cd72162c-44b4-4260-82e3-ccfe9c115177?#密码：lb3w
