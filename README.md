@@ -15,3 +15,7 @@
 ## next-guide
 ## 学习笔记
 > https://www.yuque.com/docs/share/cd72162c-44b4-4260-82e3-ccfe9c115177?#密码：lb3w
+
+## gatsby-guide
+## 学习笔记
+> https://www.yuque.com/docs/share/0709b58a-3ca7-4d50-9035-4279710d2fce?#密码：sn3x
