@@ -1,9 +1,11 @@
 import { createContext, useContext } from 'react';
 import Counter from './Counter';
+import AppleStore from './AppleStore';
 
 class RootStore {
   constructor() {
     this.countStore = new Counter()
+    this.appleStore = new AppleStore()
   }
 }
 

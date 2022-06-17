@@ -1,5 +1,6 @@
 
 import Counter from './components/Counter'
+import Apple from './components/Apply';
 // import CounterStore from "./store/Counter"
 // const countStore = new CounterStore()
 
@@ -8,7 +9,8 @@ function App() {
 
   return (
     <RootStoreProvider>
-      <Counter />
+      {/* <Counter /> */}
+      <Apple />
     </RootStoreProvider>
     
   );
