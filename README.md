@@ -19,3 +19,7 @@
 ## gatsby-guide
 ## 学习笔记
 > https://www.yuque.com/docs/share/0709b58a-3ca7-4d50-9035-4279710d2fce?#密码：sn3x
+
+## react-mobx6
+## 学习笔记
+> https://www.yuque.com/docs/share/77923ea0-083b-4860-b151-d6bcfc191811?#密码：xlg6
